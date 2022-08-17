@@ -35,6 +35,8 @@ let choiseComp = Math.random ();
            } else {
             return ("Friendsip won");
            }
+        } else if (variant1 === "bomb") {
+            return ("You're super winner!");
         }
     }
 
